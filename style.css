@@ -19,7 +19,7 @@
 .left-side__foto {
   width: 23vw;
   height: 41vh;
-  background-image: url(../img/foto.png);
+  background-image: url(img/foto.png);
   border-bottom: 1px solid #ffcc00;
   background-size: cover;
 }
